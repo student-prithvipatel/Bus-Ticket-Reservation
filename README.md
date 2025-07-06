@@ -65,12 +65,12 @@ A **Java-based console application** for booking bus tickets, checking seat avai
 
 ## 🛠️ Possible Improvements
 
-- [ ] Add file-based or database persistence for bookings
-- [ ] Create an admin panel to manage buses and schedules
-- [ ] Implement a GUI (Swing or JavaFX)
-- [ ] Generate printable or downloadable tickets (PDF format)
-- [ ] User account system with login history
-- [ ] Show seat map for visual booking experience
+- ✅ Add file-based or database persistence for bookings
+- ✅ Create an admin panel to manage buses and schedules
+- ✅ Implement a GUI (Swing or JavaFX)
+- ✅ Generate printable or downloadable tickets (PDF format)
+- ✅ User account system with login history
+- ✅ Show seat map for visual booking experience
 
 ---
 
