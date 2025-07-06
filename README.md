@@ -40,7 +40,7 @@ A **Java-based console application** for booking bus tickets, checking seat avai
    ```bash
    java BTR
 
-   ---
+---
 
 ## 📝 Usage Guide
 
